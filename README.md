@@ -17,3 +17,8 @@
 - make_srt
     - 변수로 들어온 자막 리스트를 srt 형식으로 변환
     - 순서, 시간 정보 (시작 시간 -> 끝 시간), 자막 텍스트
+- number_to_time_format
+    - 숫자를 시간 형태로 변환
+
+## 보고서 및 실행 방법
+https://chanyoung-kwon.notion.site/srt-350b6a9d52bd46b4a6154670ef085d31?pvs=4
